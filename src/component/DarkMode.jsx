@@ -20,11 +20,11 @@ function DarkMode() {
 
   return (
     <div
-      className="right-0 absolute rounded-md mx-1 my-2 z-[9999] tooltip-left tooltip tooltip-info"
+      className="absolute right-0 rounded-md mx-1 my-2 z-[9999] tooltip-left"
       data-tip="Mode"
       id="darklogo"
     >
-      <label className="swap swap-rotate dark:bg-indigo-700 rounded-md bg-slate-700 translate transition-all rotate-2 transform animate-bounce">
+      <label className="swap swap-rotate dark:bg-indigo-700 rounded-md bg-slate-700 translate transition-all rotate-2 transform">
         <input type="checkbox" onClick={darkmode} />
 
         <svg

@@ -31,8 +31,8 @@ function Hirosection() {
                 Hi, Selamat Datang
               </h3>
               <p className="py-4 text-sm md:text-lg">
-                Mohon Maaf CV dalam proses pengerjaan, Silahkan masukkan pesan
-                anda di live chat dibawah, Terima kasih..🙏;
+                Mohon Maaf CV dalam proses pengerjaan, Silahkan submit chat
+                dibawah untuk memberitahu...
               </p>
             </label>
           </label>

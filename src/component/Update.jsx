@@ -4,7 +4,7 @@ class Update extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      update: true,
+      update: false,
     };
   }
 
@@ -12,9 +12,9 @@ class Update extends Component {
     return (
       <div>
         {this.state.update ? (
-          <div className="badge badge-accent">Update Completed..</div>
+          <div className="badge badge-primary">Update Completed..</div>
         ) : (
-          <button className="badge badge-primary">
+          <button className="badge badge-accent">
             Sedang mengupdate Content..
           </button>
         )}

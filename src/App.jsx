@@ -7,13 +7,17 @@ import DesainTools from "./component/DesainTools";
 import OfficeTools from "./component/OfficeTools";
 import Sertifikat from "./component/Sertifikat";
 import DarkMode from "./component/DarkMode";
+import Bahasa from "./component/Bahasa";
+import Repair from "./component/Repair";
 
 function App() {
   return (
     <div className="bg-slate-900 dark:bg-white">
       <div className="max-w-5xl mx-auto w-11/12">
         <DarkMode />
+        <Bahasa />
         <Hirosection />
+        <Repair />
         <Services />
         <Framework />
         <DesainTools />
