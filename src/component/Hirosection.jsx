@@ -12,7 +12,7 @@ function Hirosection() {
           </h1>
           <p className="text-md mb-3 max-w-md md:text-xl text-slate-300 dark:text-slate-800">
             Saya Seorang{" "}
-            <span className="text-indigo-500 font-bold">Progmming</span> Web
+            <span className="text-indigo-500 font-bold">Programming</span> Web
             Developper{" "}
             <span className="text-slate-600 font-bold italic">Pemula</span> &
             Mahasiswa{" "}
