@@ -14,6 +14,7 @@ function Framework() {
             title={framework.title}
             icon={framework.icon}
             description={framework.description}
+            progres={framework.progres}
           ></FrameworkItem>
         ))}
       </div>

@@ -14,6 +14,7 @@ function Services() {
             title={desain.title}
             icon={desain.icon}
             description={desain.description}
+            progres={desain.progres}
           ></DesainItem>
         ))}
       </div>

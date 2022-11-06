@@ -14,6 +14,7 @@ function Services() {
             title={office.title}
             icon={office.icon}
             description={office.description}
+            progres={office.progres}
           ></DesainItem>
         ))}
       </div>
