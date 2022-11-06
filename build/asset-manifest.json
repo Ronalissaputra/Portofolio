@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portofolio/static/css/main.fce80124.css",
-    "main.js": "/Portofolio/static/js/main.baf2ce3e.js",
+    "main.css": "/Portofolio/static/css/main.9f81706b.css",
+    "main.js": "/Portofolio/static/js/main.44fad629.js",
     "static/media/Sertifikat2.png": "/Portofolio/static/media/Sertifikat2.9be9928e0e4e48461243.png",
     "static/media/Sertifikat1.png": "/Portofolio/static/media/Sertifikat1.b51a31c5c2e289ba4fc5.png",
     "static/media/Ronalis.jpg": "/Portofolio/static/media/Ronalis.14f4d77df668102bac5f.jpg",
     "static/media/instagram (1).png": "/Portofolio/static/media/instagram (1).79535458a8a6d88f81d4.png",
-    "static/media/twitter.png": "/Portofolio/static/media/twitter.5e25e7dbdcfda120edc8.png",
     "static/media/facebook.png": "/Portofolio/static/media/facebook.01a470d813915c298403.png",
+    "static/media/gmail.png": "/Portofolio/static/media/gmail.a2f2146f929409405da0.png",
     "index.html": "/Portofolio/index.html",
-    "main.fce80124.css.map": "/Portofolio/static/css/main.fce80124.css.map",
-    "main.baf2ce3e.js.map": "/Portofolio/static/js/main.baf2ce3e.js.map"
+    "main.9f81706b.css.map": "/Portofolio/static/css/main.9f81706b.css.map",
+    "main.44fad629.js.map": "/Portofolio/static/js/main.44fad629.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce80124.css",
-    "static/js/main.baf2ce3e.js"
+    "static/css/main.9f81706b.css",
+    "static/js/main.44fad629.js"
   ]
 }
