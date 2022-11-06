@@ -1,4 +1,6 @@
 import React from "react";
+import github from "../img/github.png";
+import linkedin from "../img/linkedin.png";
 
 function Hirosection() {
   return (
@@ -34,6 +36,22 @@ function Hirosection() {
               </p>
             </label>
           </label>
+          <div className="connect flex items-center justify-center my-2">
+            <a
+              href="https://linkedin.com/in/ronalis-saputra-057994245"
+              target="_blank"
+              className="w-10 h-10 mx-1 cursor-pointer"
+            >
+              <img src={linkedin} alt="gtihub" />
+            </a>
+            <a
+              href="https://github.com/Ronalissaputra"
+              target="_blank"
+              className="w-10 h-10 mx-1 cursor-pointer"
+            >
+              <img src={github} alt="gtihub" />
+            </a>
+          </div>
         </div>
       </div>
     </div>
