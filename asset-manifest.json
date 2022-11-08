@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portofolio/static/css/main.42e2b148.css",
-    "main.js": "/Portofolio/static/js/main.ccabe5f5.js",
+    "main.css": "/Portofolio/static/css/main.228e60db.css",
+    "main.js": "/Portofolio/static/js/main.1426446e.js",
     "static/media/Sertifikat2.png": "/Portofolio/static/media/Sertifikat2.9be9928e0e4e48461243.png",
     "static/media/Sertifikat1.png": "/Portofolio/static/media/Sertifikat1.b51a31c5c2e289ba4fc5.png",
     "static/media/Ronalis.jpg": "/Portofolio/static/media/Ronalis.14f4d77df668102bac5f.jpg",
@@ -11,11 +11,11 @@
     "static/media/gmail.png": "/Portofolio/static/media/gmail.a2f2146f929409405da0.png",
     "static/media/linkedin.png": "/Portofolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/Portofolio/index.html",
-    "main.42e2b148.css.map": "/Portofolio/static/css/main.42e2b148.css.map",
-    "main.ccabe5f5.js.map": "/Portofolio/static/js/main.ccabe5f5.js.map"
+    "main.228e60db.css.map": "/Portofolio/static/css/main.228e60db.css.map",
+    "main.1426446e.js.map": "/Portofolio/static/js/main.1426446e.js.map"
   },
   "entrypoints": [
-    "static/css/main.42e2b148.css",
-    "static/js/main.ccabe5f5.js"
+    "static/css/main.228e60db.css",
+    "static/js/main.1426446e.js"
   ]
 }
